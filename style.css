@@ -227,7 +227,7 @@ i.icon {
 		width: 80%;
 	}
 	button.black-btn {
-		width: 100%;
+		gap: 1rem;
 		padding: 10px 10px;
 	}
 
